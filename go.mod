@@ -1,4 +1,4 @@
-module github.com/GIT_USER_ID/GIT_REPO_ID
+module github.com/invent360/petstore_api
 
 go 1.13
 
